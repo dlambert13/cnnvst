@@ -1,4 +1,4 @@
-``cnnvst`` - graduate research project in deep learning 
+# ``cnnvst`` - graduate research project in deep learning 
 By Said Raïssi, Vincent Mariller and David Lambert for their AMAL (Advanced MAchine Learning) class
 Sorbonne Université - 2022/2023
 Supervisor: Nicolas Baskiotis, Associate Professor, ISIR - Sorbonne Université
