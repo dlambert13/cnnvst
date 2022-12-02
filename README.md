@@ -4,4 +4,4 @@ By Saïd Raïssi, Vincent Mariller and David Lambert
 AMAL (Advanced MAchine Learning) class - Sorbonne Université - 2022/2023  
 Supervisor: Nicolas Baskiotis, Associate Professor, ISIR - Sorbonne Université
 
-Implementation of, and experimentation based on, one of the research papers submitted for blind review to ICLR 2023 by an anonymous team of researchers
+Implementation and experimentation based on [an ICLR 2023 blind submission](https://openreview.net/forum?id=TKIFuQHHECj)
